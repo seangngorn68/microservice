@@ -33,4 +33,4 @@ spring:
 logging:
   level:
     org.springframework.amqp: DEBUG
-    org.springframework.rabbit: DEBUG
+    org.springframework.rabbit: DEBUG  Seangngorn@168
